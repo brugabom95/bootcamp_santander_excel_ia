@@ -17,6 +17,11 @@ Durante o bootcamp, exploramos:
 
 ---
 
+## Desafio 01 - Simulador de Investimentos
+
 ## Desafio 01 - Controlador de Investimentos
+<img src="./desafio01 - investimentos">
+
+
 
 
