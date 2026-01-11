@@ -18,7 +18,7 @@ Durante o bootcamp, exploramos:
 ---
 
 ## Desafio 01 - Controlador de Investimentos
-<img src="https://github.com/brugabom95/bootcamp_santander_excel_ia/issues/1#issue-3800615192">
+<img width="572" height="732" alt="Image" src="https://github.com/user-attachments/assets/8910c50c-f5dc-452b-a7b0-675d3a1b71f4" />
 
 
 
