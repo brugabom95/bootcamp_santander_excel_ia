@@ -1,6 +1,6 @@
 # 🧠 Bootcamp Santander - Excel com Inteligência Artificial
 
-Este repositório reúne os **desafios de projeto** que desenvolvi durante minha participação no bootcamp **Santander - Excel com Inteligência Artificial/2025**, promovido pela [DIO](https://www.dio.me/) em parceria com o **Santander**.
+Este repositório reúne os **desafios de projeto** que desenvolvi durante minha participação no bootcamp **Santander - Excel com Inteligência Artificial/2025**, promovido pela [DIO] em parceria com o **Santander**.
 
 ---
 
