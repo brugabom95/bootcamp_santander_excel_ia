@@ -18,7 +18,7 @@ Durante o bootcamp, exploramos:
 ---
 
 ## Desafio 01 - Simulador de Investimentos
-<img width="572" height="732" alt="Image" src="https://github.com/user-attachments/assets/8910c50c-f5dc-452b-a7b0-675d3a1b71f4" />
+<img width="1118" height="714" alt="Image" src="https://github.com/user-attachments/assets/a559e4af-865e-4996-b326-a4bf5a64b1bb" />
 
 ## Faixa de Imposto de Renda
 <img width="1143" height="780" alt="Image" src="https://github.com/user-attachments/assets/9f7cff52-a1fa-46fe-856d-5a03c648db4d" />
