@@ -79,3 +79,6 @@ Ao longo do desenvolvimento, foram adicionados novos recursos e abas para tornar
 - [x] Aplicação de **formatação condicional**  
 - [x] Ajustes de **layout visual com ícones e cores**  
 
+Aba Como Preencher
+<img width="951" height="699" alt="Image" src="https://github.com/user-attachments/assets/ea26fb40-614b-4f80-836e-6c9d41e564ff" />
+
