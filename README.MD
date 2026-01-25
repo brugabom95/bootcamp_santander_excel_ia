@@ -57,7 +57,6 @@ Ao longo do desenvolvimento, foram adicionados novos recursos e abas para tornar
 ## 📊 Funcionalidades Extras
 - **Tabela de Resumo Financeiro** → consolida os dados e permite comparar receitas e despesas  
 - **Gráficos visuais** (pizza e colunas) → facilitam a análise das despesas como um todo e a proporção em relação às receitas  
-- **Formatação condicional** → destaca automaticamente o saldo final (verde se positivo, vermelho se negativo)  
 - **Layout visual com ícones e cores** → torna a navegação mais intuitiva e profissional  
 - **Automação VBA** → código que detecta quando a aba **Despesas** recebe novos lançamentos e atualiza os gráficos automaticamente  
 
