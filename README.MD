@@ -82,3 +82,10 @@ Ao longo do desenvolvimento, foram adicionados novos recursos e abas para tornar
 Aba Como Preencher
 <img width="951" height="699" alt="Image" src="https://github.com/user-attachments/assets/ea26fb40-614b-4f80-836e-6c9d41e564ff" />
 
+Resumo Financeiro
+<img width="736" height="600" alt="Image" src="https://github.com/user-attachments/assets/80a0f8f5-1305-4f0d-bd41-edc7e002db75" />
+
+Menu
+<img width="248" height="683" alt="Image" src="https://github.com/user-attachments/assets/3ce1b96b-a825-4d42-9694-b2104a867768" />
+
+
