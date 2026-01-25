@@ -20,6 +20,9 @@ Durante o bootcamp, exploramos:
 
 ---
 
+## Faixa de Imposto de Renda
+<img width="1143" height="780" alt="Image" src="https://github.com/user-attachments/assets/9f7cff52-a1fa-46fe-856d-5a03c648db4d" />
+
 ## Projeto 01 - Simulador de Investimentos
 <img width="1118" height="714" alt="Image" src="https://github.com/user-attachments/assets/a559e4af-865e-4996-b326-a4bf5a64b1bb" />
 
@@ -31,8 +34,6 @@ Durante o bootcamp, exploramos:
 
 ## 🎯 Objetivo
 Esta planilha foi criada para **facilitar a declaração do Imposto de Renda**, permitindo o registro estruturado de **Receitas** e **Despesas**, o cálculo automático do **Saldo Final** e a geração de **relatórios e gráficos** que ajudam na conferência dos dados e no preenchimento correto da declaração anual.
-
----
 
 ## 📂 Estrutura Inicial
 O projeto começou com três abas principais:
