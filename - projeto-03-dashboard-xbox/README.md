@@ -34,7 +34,7 @@ Monitorar e analisar dados de receita, comportamento de renovação automática 
 
 ## 🚀 Como Usar
 
-1. Abra o arquivo `dashboard.xlsx` no Excel.
+1. Abra o arquivo `Projeto 3 - Dashboard de Vendas do Xbox com Excel.xlsx` no Excel.
 2. Use os filtros no topo para alternar entre períodos.
 3. Analise os KPIs, gráficos comparativos e tendência mensal.
 
