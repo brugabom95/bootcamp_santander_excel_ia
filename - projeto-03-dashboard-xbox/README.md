@@ -1,5 +1,5 @@
 ## Projeto 03 - Dashboard de Vendas XBOX
-# 📊 Xbox Game Pass – Dashboard de Assinaturas 2024
+# 📊 Xbox Game Pass – Dashboard de Vendas 2024
 
 Este projeto apresenta um dashboard interativo e visualmente organizado para acompanhar as vendas e assinaturas do Xbox Game Pass ao longo do ano de 2024.
 
